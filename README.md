@@ -4,7 +4,7 @@
 
 ## Быстрый старт (Windows)
 
-### 1. Установи Python
+### 1. Установи Python ( лучше всего 3.11.9 )
 Скачай с [python.org](https://www.python.org/downloads/) — при установке **поставь галочку "Add Python to PATH"**
 
 ### 2. Открой терминал в папке проекта
