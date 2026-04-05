@@ -1,4 +1,4 @@
-# meowbalt — видео-лента для друзей
+# meowbalt — Look as you want, express emotions as you want
 
 ## Быстрый старт (Windows)
 
